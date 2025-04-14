@@ -1,0 +1,25 @@
+{
+  "Optic": {
+    "Account": {
+      "Address": {
+        "Street": "String",
+        "Postal_Code": "int",
+        "City": "String",
+        "Country": "String"
+      },
+      "Phone": "int",
+      "Email": "String",
+      "Birthday_date": "Date"
+    },
+    "Products": {
+      "Glasses": {
+        "Brand": "string",
+        "Graduation_left": "int",
+        "Graduation_right": "int",
+        "Color": "String",
+        "Frame_type": "Strig",
+        "Prince": "decimal"
+      }
+    }
+  }
+}
